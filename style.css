@@ -1,0 +1,19 @@
+nav{
+  color: black;
+}
+
+h2{
+  margin-left: 50px;
+}
+
+ul{
+  list-style: none;
+}
+
+.collapse .navbar-collapse .active{
+  float:right
+}
+
+body{
+  background-color: white;
+}
